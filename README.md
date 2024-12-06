@@ -1,1 +1,1 @@
-# Serum or Jupiter Solana swap app
+# Serum Solana swap app
